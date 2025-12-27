@@ -1,4 +1,4 @@
-FROM python:3.13.4-alpine3.22
+FROM python:3.14.2-alpine3.22
 
 # Define o diretório de trabalho dentro do contêiner
 WORKDIR /app
